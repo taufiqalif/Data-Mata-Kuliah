@@ -1,6 +1,6 @@
 <?php 
 // koneksi database
-$conn = mysqli_connect("localhost","root","","datakampus");
+$conn = mysqli_connect("localhost","root","","kampus");
 
 
 function query($query) {
